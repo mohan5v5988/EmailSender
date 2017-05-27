@@ -1,0 +1,8 @@
+userName=
+to=
+from=
+password=
+subject=
+body=
+fileName=
+tsl=true
